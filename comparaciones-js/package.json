@@ -1,0 +1,20 @@
+{
+  "name": "comparaciones-js-7daysofcode",
+  "version": "1.0.0",
+  "description": "Lección Día 1: Igualdad en JavaScript (== vs ===) para #7DaysOfCode",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/01-equality-basics.js"
+  },
+  "keywords": [
+    "javascript",
+    "igualdad",
+    "coercion",
+    "curso",
+    "7DaysOfCode"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {}
+}
