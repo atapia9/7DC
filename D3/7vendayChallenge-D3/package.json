@@ -1,0 +1,9 @@
+{
+  "name": "7vendayChallenge-D3",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node juego.js"
+  }
+}
